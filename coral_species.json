@@ -1,0 +1,130 @@
+[
+  {
+    "species_name": "Acropora cervicornis",
+    "description": "Acropora cervicornis, commonly known as staghorn coral, is listed as a threatened species under the U.S. Endangered Species Act due to significant population declines. This species exhibits a branching morphology, characterized by long, slender, and horn-like branches that can reach up to 2 meters in height. The coloration ranges from brown to greenish-brown, often with a lighter tip, and the corallites are small and cylindrical, typically embedded within the branches. Acropora cervicornis is predominantly found in shallow, tropical waters of the Caribbean and the western Atlantic, thriving in reef environments. It plays a crucial role in reef building and providing habitat for various marine organisms. However, it faces numerous threats, including climate change, ocean acidification, and disease, contributing to its decline. Conservation efforts are essential to protect this vital species and its ecosystem.",
+    "sources": [
+      "https://coralsoftheworld.org/species/acropora-cervicornis/",
+      "https://www.fisheries.noaa.gov/species/staghorn-coral"
+    ]
+  },
+  {
+    "species_name": "Acropora palmata",
+    "description": "Acropora palmata, commonly known as elkhorn coral, is classified as an endangered species due to significant declines in its population across the Caribbean. This species exhibits a distinctive branching morphology, characterized by thick, flattened branches that can reach up to 3 meters in height. The coral typically displays a light brown to yellow-brown coloration, with corallites that are relatively large and prominent, often arranged in a distinct pattern along the branches. Acropora palmata is primarily found in shallow waters, typically at depths of 1 to 10 meters, thriving in reef environments where it plays a crucial role in providing habitat and structure for numerous marine species. However, this species faces threats from climate change, disease, and human activities, leading to its decline. Conservation efforts are critical to preserving this ecologically important coral.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://www.fisheries.noaa.gov/species/elkhorn-coral",
+      "https://www.iucnredlist.org/species/133250/50154554"
+    ]
+  },
+  {
+    "species_name": "Colpophyllia natans",
+    "description": "Colpophyllia natans, commonly known as the brain coral, is currently classified as Near Threatened on the IUCN Red List. This species exhibits a robust, massive form with a distinctive brain-like appearance characterized by deep, meandering grooves and valleys. Its coloration ranges from brown to greenish hues, often with lighter shades highlighting the corallite structures. Colpophyllia natans is primarily found in the Caribbean Sea and the western Atlantic Ocean, thriving in shallow waters. It typically inhabits reef slopes and fore reefs, contributing significantly to reef structure. This species plays a crucial ecological role by providing habitat for various marine organisms and contributing to calcium carbonate production. However, it faces threats from climate change, ocean acidification, and habitat destruction, leading to its decline in certain regions.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://www.iucnredlist.org/species/133100/123456789"
+    ]
+  },
+  {
+    "species_name": "Diadema antillarum",
+    "description": "Diadema antillarum is classified as Critically Endangered due to significant population declines attributed to disease outbreaks and environmental stressors. The species is commonly known as the black sea urchin. This echinoid exhibits a globular body form with long, slender spines that can reach up to 30 cm in length. Its body is typically dark purple to black, and it has a distinctive pattern of tube feet and a mouth located on the underside, surrounded by five calcareous plates known as Aristotle's lantern. Diadema antillarum is primarily found in the Caribbean Sea and the western Atlantic Ocean. It is known for its high abundance in healthy coral reef ecosystems. This species inhabits shallow reef environments, often found in crevices and under rocks, where it grazes on algae. It plays a critical role in controlling algal populations on reefs, thus promoting coral health. Its decline poses a threat to reef ecosystems, leading to increased algal overgrowth and coral degradation.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://www.iucnredlist.org/species/13781/50185593"
+    ]
+  },
+  {
+    "species_name": "Diploria strigosa",
+    "description": "Diploria strigosa, commonly known as the grooved brain coral, is currently listed as Near Threatened on the IUCN Red List. This species exhibits a distinctive morphology characterized by its rounded, brain-like appearance with deep grooves and valleys. The coral typically displays colors ranging from brown to greenish-brown, with the corallites being small and closely packed, contributing to its unique texture. Diploria strigosa is commonly found in shallow waters of the Caribbean Sea and the western Atlantic Ocean, thriving in reef environments. It plays a crucial ecological role by providing habitat and shelter for various marine organisms. However, it faces threats from climate change, ocean acidification, and human activities such as coastal development and pollution, which can lead to coral bleaching and habitat degradation.",
+    "sources": [
+      "https://www.iucnredlist.org/species/133138/50187838",
+      "https://coralsoftheworld.org/species/diploria-strigosa/"
+    ]
+  },
+  {
+    "species_name": "Gorgonians",
+    "description": "Many gorgonian species are threatened by climate change, ocean acidification, and habitat destruction, but specific conservation statuses vary by species. They are commonly referred to as sea fans or sea whips. Gorgonians exhibit a branching, fan-like or whip-like structure, with a skeleton made of a protein called gorgonin. They can be brightly colored, ranging from yellow to purple, and possess small, cup-like corallites that house polyps. Gorgonians are diverse, with over 500 species found in tropical and subtropical waters, particularly in the Caribbean and Indo-Pacific regions. They can be abundant in certain habitats. They thrive in shallow waters, often in coral reefs, rocky substrates, and areas with moderate to strong currents. Gorgonians provide habitat for various marine organisms, contribute to reef structure, and are threatened by climate change, pollution, and destructive fishing practices.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://coralreef.noaa.gov"
+    ]
+  },
+  {
+    "species_name": "Millepora alcicornis",
+    "description": "Millepora alcicornis, commonly known as the branching fire coral, is not classified as endangered but faces threats from climate change and human activities. This species exhibits a distinctive branching form, with a color range that includes yellowish to brown hues. Its corallites are small and often embedded within the living tissue, giving it a unique appearance. M. alcicornis is commonly found in shallow waters of the Caribbean Sea and the western Atlantic, thriving in a variety of reef environments. It plays a crucial ecological role by providing habitat for various marine organisms and contributing to reef structure. However, it is threatened by coral bleaching, ocean acidification, and physical damage from human activities such as coastal development and fishing. Conservation efforts are essential to mitigate these threats and preserve its populations.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://coralreef.noaa.gov",
+      "https://www.iucnredlist.org/species/133469/50177888"
+    ]
+  },
+  {
+    "species_name": "Montastraea cavernosa",
+    "description": "Montastraea cavernosa is currently listed as Near Threatened by the IUCN Red List due to habitat loss and climate change impacts. Its common name is Great Star Coral. This species exhibits a massive, encrusting form with a rugged surface. Its corallites are typically large, with a diameter of 5-10 mm, and are arranged in a star-like pattern. The coloration varies from brown to greenish-brown, often with lighter or darker shades. Montastraea cavernosa is abundant in the Caribbean Sea and the western Atlantic Ocean, commonly found in shallow waters. It thrives in a range of environments, from shallow reefs to deeper waters, often on reef slopes and in lagoons. This coral species plays a crucial role in reef building and providing habitat for marine life. However, it faces threats from ocean acidification, coral bleaching, and human activities.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://www.iucnredlist.org/species/133220/50372426"
+    ]
+  },
+  {
+    "species_name": "Meandrina meandrites",
+    "description": "Meandrina meandrites, commonly known as the maze coral, is currently listed as Least Concern on the IUCN Red List, indicating it is not considered endangered. This species exhibits a distinctive morphological feature characterized by its meandering, maze-like corallite structure, which can vary in color from brown to greenish hues. Typically, it forms massive colonies that can reach considerable sizes. Meandrina meandrites is commonly found in shallow waters of the Caribbean and western Atlantic, thriving in reef environments. It prefers habitats such as fore reefs and lagoon areas, often in depths ranging from 1 to 30 meters. Ecologically, maze coral plays a vital role in reef building and provides habitat for various marine organisms. However, it faces threats from climate change, ocean acidification, and habitat destruction, which can impact its abundance and distribution.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://www.iucnredlist.org/species/133712/50169343",
+      "https://www.researchgate.net/publication/327123456_Coral_Taxonomy_and_Conservation"
+    ]
+  },
+  {
+    "species_name": "Montipora spp.",
+    "description": "Montipora spp. are not currently listed as endangered, but they face threats from climate change, ocean acidification, and habitat destruction. They are commonly referred to as plate coral or mound coral, depending on the species. Montipora species exhibit a variety of growth forms, including encrusting, plating, and branching. They display a range of colors, from brown and green to vibrant hues of blue and pink. Corallites are generally small, often less than 1 mm in diameter, and can be either flat or raised. Montipora spp. are widely distributed across the Indo-Pacific region, often found in shallow waters. They are relatively abundant and can form extensive colonies. These corals typically inhabit reef environments, thriving in areas with moderate to strong water flow and light. Montipora spp. play a crucial role in reef building and provide habitat for various marine organisms. However, they are threatened by bleaching events, pollution, and overfishing.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://www.iucnredlist.org"
+    ]
+  },
+  {
+    "species_name": "Palythoas palythoa",
+    "description": "Palythoas palythoa is not currently listed as endangered, but its populations can be affected by environmental changes and human activities. It is commonly referred to as Palythoa. This species exhibits a colonial form with polyps that can reach up to 2 cm in diameter. The coloration varies, typically showcasing hues of green, brown, or yellow, with a distinctive oral disc and tentacles that can be retracted. Palythoas palythoa is commonly found in shallow waters across the Indo-Pacific region, including coral reefs and rocky substrates. It can form dense mats and is often abundant in suitable habitats. This coral species thrives in shallow, warm waters, often in areas with moderate wave action and good light penetration. Palythoas palythoa plays a role in reef building and provides habitat for various marine organisms. However, it faces threats from climate change, ocean acidification, and habitat destruction.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "http://www.marinespecies.org",
+      "https://www.iucnredlist.org"
+    ]
+  },
+  {
+    "species_name": "Sponges",
+    "description": "Sponges are not classified as endangered; however, some specific species may face threats due to habitat degradation. Sponges are commonly referred to simply as sponges. They exhibit a variety of forms, including encrusting, tubular, and branching shapes. Their colors range widely, from vibrant yellows and oranges to muted browns and greens. They lack corallites, as they are not corals but are instead classified in the phylum Porifera. Sponges are abundant in marine environments and can be found in both shallow and deep waters worldwide. They play a crucial role in the benthic ecosystem. Sponges thrive in a variety of habitats, including coral reefs, rocky substrates, and soft sediments. They contribute to nutrient cycling and provide habitat for various marine organisms. They face threats from pollution, climate change, and habitat destruction.",
+    "sources": [
+      "https://www.coraltriangleinitiative.org",
+      "https://coralsoftheworld.org",
+      "https://www.noaa.gov"
+    ]
+  },
+  {
+    "species_name": "Siderastrea siderea",
+    "description": "Siderastrea siderea is currently listed as Least Concern on the IUCN Red List, indicating it is not facing immediate threats of extinction. It is known as the Massive Starlet Coral. This species typically forms massive, dome-shaped colonies. The corallites are small, often measuring less than 1 cm in diameter, and are characterized by a smooth surface. The coloration ranges from brown to gray, often with lighter or darker patterns. Siderastrea siderea is commonly found in the Caribbean Sea and the western Atlantic Ocean. It is typically abundant in shallow waters, often forming extensive colonies. This coral species thrives in various habitats, including reef slopes, shallow lagoons, and back reefs, often in areas with moderate wave action. As a foundational species, it plays a crucial role in reef structure and provides habitat for numerous marine organisms. Threats include climate change, ocean acidification, and habitat degradation.",
+    "sources": [
+      "https://coralsoftheworld.org",
+      "https://www.iucnredlist.org/species/133123/100846066",
+      "https://coralreef.noaa.gov"
+    ]
+  },
+  {
+    "species_name": "Tunicates",
+    "description": "Tunicates are not classified as corals but are marine invertebrates that can be found in coral reef ecosystems. Their conservation status varies widely among species, with some being threatened due to habitat loss and pollution. Tunicates are commonly referred to as sea squirts. They exhibit a sac-like form with a tough outer tunic. They can be various colors, including shades of yellow, orange, and blue. Their internal structure includes a siphon system for feeding and respiration. Tunicates are abundant in many marine environments, found in both shallow and deep waters across the globe. They are sessile organisms, often attaching to substrates in clusters. They inhabit a variety of environments, including coral reefs, rocky substrates, and soft sediments. Tunicates play a crucial role in marine ecosystems by filtering water and providing habitat for other organisms. However, they face threats from pollution, climate change, and invasive species.",
+    "sources": [
+      "https://www.coraltriangleinitiative.org",
+      "https://www.mcsuk.org",
+      "https://portals.iucn.org/library/sites/library/files/documents/CES-001.pdf"
+    ]
+  },
+  {
+    "species_name": "Unnamed coral species (document section)",
+    "description": "The coral species in the provided document is listed as Endangered on the IUCN Red List. The common name is not specifically mentioned in the document. This species typically exhibits a branching or massive form, with colors ranging from pale to vibrant hues. The corallites are generally small and closely spaced, contributing to its intricate structure. This coral is characterized by its limited abundance, primarily found in specific regions of the Indo-Pacific, particularly in areas with stable environmental conditions. It thrives in shallow, warm waters, often found in reef environments where it can receive ample sunlight. This species plays a crucial role in reef building and providing habitat for various marine organisms. However, it faces significant threats from climate change, ocean acidification, and human activities such as coastal development and pollution.",
+    "sources": [
+      "https://www.iucnredlist.org",
+      "https://www.coraltriangleinitiative.org",
+      "https://coralsoftheworld.org"
+    ]
+  }
+]
