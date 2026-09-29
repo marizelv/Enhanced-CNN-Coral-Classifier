@@ -1040,6 +1040,9 @@ async function predictCoral() {
         const predictedClass = labels[predicted.index];
         const confidence = predicted.score;
 
+        // CNN rejection rule:
+        // confidence >= threshold -> ACCEPT and allow FAISS description
+        // confidence < threshold  -> REJECT and suppress FAISS description
         const accepted = confidence >= CONFIDENCE_THRESHOLD;
 
         return {
@@ -1063,7 +1066,14 @@ async function predictCoral() {
 }
 
 /* ---------- FAISS Top-1 description ---------- */
-function buildFAISSDescription(predictedClass) {
+function buildFAISSDescription(predictedClass, accepted) {
+    // IMPORTANT:
+    // Never retrieve or display a FAISS description for a rejected prediction.
+    // FAISS Top-1 is available only after the CNN passes the confidence threshold.
+    if (!accepted) {
+        return "";
+    }
+
     const item = getFAISSTop1(predictedClass);
 
     if (!item) {
@@ -1194,7 +1204,7 @@ function displayPrediction(result) {
             </div>
         </div>
 
-        ${buildFAISSDescription(result.predictedClass)}
+        ${buildFAISSDescription(result.predictedClass, result.accepted)}
 
         <div class="panel top5-panel">
             <div class="top5-header">☷ Top-${TOP_K} Predictions</div>
